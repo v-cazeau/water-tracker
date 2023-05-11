@@ -1,20 +1,17 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { NativeBaseProvider, Box } from "native-base";
+import { TextComponent } from "react-native";
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+   <NativeBaseProvider>
+    <Box flex= {1} bg= "#151926" alignItems= "center" justifyContent = "flex-start">
+     <Box height = {50} width = "100%" bg = "#29313C" >
+      1
+      2
+      3
+      4
+     </Box>
+    </Box>
+   </NativeBaseProvider>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
