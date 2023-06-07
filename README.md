@@ -11,7 +11,6 @@ Boca Code Week 8: The Water Tracker app is a web application designed to help yo
 - **Track progress**: The app provides a visual representation of your progress towards your daily goal.
 - **Daily summary**: View a summary of your water intake for the current day.
 
-
 ## Technologies Used
 
 - React Native 
