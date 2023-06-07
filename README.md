@@ -1,6 +1,6 @@
 # Water Tracker App
 
-Boca Code Week 8: The Water Tracker app is a simple web application designed to help you track your daily water intake and stay hydrated. It allows you to set a daily water goal, record the amount of water you drink throughout the day, and view your progress towards your goal.
+Boca Code Week 8: The Water Tracker app is a web application designed to help you track your daily water intake and stay hydrated. It allows you to have a daily water goal, record the amount of water you drink throughout the day, and view your progress towards your goal.
 
 ![screenshot](./images/readme.jpeg)
 
